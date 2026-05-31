@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## My Skills 💻 🔒 🖥️ 📊
 [![My Skills](https://skillicons.dev/icons?i=ai,anaconda,apple,atom,aws,azul,azure,bash,bootstrap,css,dart,django,flutter,html,js,kali,linux,mongodb,mysql,nodejs,npm,postman,py,raspberrypi,vscode,windows)](https://skillicons.dev)
 
 <!--
