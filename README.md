@@ -1,5 +1,5 @@
 ## My Skills 💻 🔒 🖥️ 📊
-[![My Skills](https://skillicons.dev/icons?i=ai,anaconda,apple,atom,aws,azul,azure,bash,bootstrap,css,dart,django,flutter,html,js,kali,linux,mongodb,mysql,nodejs,npm,postman,py,raspberrypi,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,anaconda,apple,atom,aws,azul,azure,bash,blender,bootstrap,css,dart,django,flutter,heroku,html,js,kali,linux,mongodb,mysql,nodejs,npm,postman,powershell,ps,py,raspberrypi,react,sass,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 
 <!--
 **Prevail24/Prevail24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
